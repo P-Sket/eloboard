@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract tactical star map</title>
+  <desc id="desc">A fictional sci-fi tactical map with lanes, nodes, and sector lines.</desc>
+  <rect width="720" height="420" fill="#071017"/>
+  <g stroke="#24424d" stroke-width="1">
+    <path d="M0 70h720M0 140h720M0 210h720M0 280h720M0 350h720"/>
+    <path d="M90 0v420M180 0v420M270 0v420M360 0v420M450 0v420M540 0v420M630 0v420"/>
+  </g>
+  <g fill="none" stroke="#6fd3ff" stroke-width="3" opacity=".75">
+    <path d="M90 310 210 238 308 258 455 145 615 108"/>
+    <path d="M112 105 240 156 365 118 505 218 642 276"/>
+  </g>
+  <g fill="#ffe27a">
+    <circle cx="90" cy="310" r="8"/>
+    <circle cx="210" cy="238" r="6"/>
+    <circle cx="308" cy="258" r="6"/>
+    <circle cx="455" cy="145" r="9"/>
+    <circle cx="615" cy="108" r="7"/>
+    <circle cx="112" cy="105" r="6"/>
+    <circle cx="240" cy="156" r="7"/>
+    <circle cx="365" cy="118" r="6"/>
+    <circle cx="505" cy="218" r="8"/>
+    <circle cx="642" cy="276" r="6"/>
+  </g>
+  <g fill="#d16bff" opacity=".8">
+    <path d="M155 315 174 346 139 346z"/>
+    <path d="M560 70 579 101 544 101z"/>
+  </g>
+  <g fill="#86f06c" opacity=".85">
+    <rect x="342" y="303" width="24" height="24" transform="rotate(45 354 315)"/>
+    <rect x="430" y="255" width="18" height="18" transform="rotate(45 439 264)"/>
+  </g>
+  <text x="28" y="38" fill="#9fb0aa" font-family="monospace" font-size="18">ELOBOARD SECTOR MAP</text>
+  <text x="28" y="390" fill="#9fb0aa" font-family="monospace" font-size="14">FICTIONAL BROOD WAR LADDER VISUAL</text>
+</svg>
